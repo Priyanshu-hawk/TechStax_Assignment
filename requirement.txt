@@ -6,3 +6,4 @@ polars
 jupyter
 seaborn
 matplotlib
+dask[complete]
