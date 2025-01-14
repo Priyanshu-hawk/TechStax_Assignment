@@ -1,4 +1,8 @@
 import gdown
+import os
+
+os.makedirs("dataset", exist_ok=True)
+
 output = "dataset/road_aci_ds.zip"
 
 url = "https://drive.google.com/file/d/1edKrdWNOcgbAo2JtckX-PEyM0FdEq4EG/view?usp=drive_link"

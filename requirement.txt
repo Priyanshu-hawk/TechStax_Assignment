@@ -2,3 +2,5 @@ pandas
 numpy
 scikit-learn
 gdown
+polars
+jupyter
