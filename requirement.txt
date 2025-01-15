@@ -7,3 +7,7 @@ jupyter
 seaborn
 matplotlib
 dask[complete]
+xgboost
+torch 
+torchvision 
+torchaudio
